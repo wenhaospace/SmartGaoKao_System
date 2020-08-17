@@ -1,1 +1,1 @@
-# SmartGaoKao_System
+# 智慧高考推荐系统
